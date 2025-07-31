@@ -8,7 +8,7 @@ class Task:
         self.completed = False
 
     def __str__(self):
-        status = "✅ Done" if self.completed else "⏳ Pending"
+        status = " Done" if self.completed else "Pending"
         return f"{self.title} | Due: {self.deadline.date()} | Priority: {self.priority} | {status}"
 
 class TaskManager:
