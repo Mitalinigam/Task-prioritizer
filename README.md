@@ -1,10 +1,10 @@
-# 📝 Task Prioritizer with Deadline Tracker
+# Task Prioritizer with Deadline Tracker
 
 A simple command-line Python application to help users manage tasks with deadlines and priorities. It uses basic Object-Oriented Programming (OOP) and sorting algorithms (DSA concepts).
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add tasks with deadline and priority
 - View all tasks sorted by deadline and priority
@@ -13,7 +13,7 @@ A simple command-line Python application to help users manage tasks with deadlin
 
 ---
 
-## 📂 Technologies Used
+## Technologies Used
 
 - Python 3
 - OOP Concepts (Classes, Objects, Methods)
@@ -22,7 +22,7 @@ A simple command-line Python application to help users manage tasks with deadlin
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. Clone the repository or download the code:
    ```bash
